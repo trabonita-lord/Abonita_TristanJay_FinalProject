@@ -23,7 +23,7 @@ It heavily utilizes Object-Oriented Programming (OOP) principles, file handling 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-link>
+   git clone https://github.com/trabonita-lord/Abonita_TristanJay_FinalProject.git
    cd Abonita_TristanJay_FinalProject
    ```
 
