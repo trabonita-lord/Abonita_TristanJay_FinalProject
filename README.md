@@ -64,13 +64,14 @@ When you launch the app, you will see an interface similar to this:
 8. View Daily Summary
 9. Save and Exit
 ```
-*(Add actual screenshots here of the terminal before submitting!)*
+
+![Terminal Screenshot](Screenshot_20260517_175519.png)
 
 ---
 
 ## 🎥 Video Demonstration
 **Watch the full feature walkthrough and code explanation here:**
-👉 **[Insert YouTube URL Here]**
+👉 **[Watch on YouTube](https://youtu.be/PSfwueE4tQc)**
 
 ---
 *Developed for the CLI-Based Python Application Project.*
